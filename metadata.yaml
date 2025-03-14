@@ -1,0 +1,33 @@
+_repo: Sonderlinge_75532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rosegger, Peter
+    aliases:
+    - Rosegger, Petri Kettenfeier
+    - Fels, Gabriel
+    birthdate: 1843
+    deathdate: 1918
+    gutenberg_agent_id: '7090'
+    url: http://www.gutenberg.org/2009/agents/7090
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Peter_Rosegger
+    - https://de.wikipedia.org/wiki/Peter_Rosegger
+description: ''
+gutenberg_issued: '2025-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75532'
+language: de
+pgterms:marc905: 20220424063023rosegger
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bL. Staackmann Verlag, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sonderlinge
+url: http://www.gutenberg.org/ebooks/75532
